@@ -10,10 +10,10 @@ print(f"Pozycja gracza: {pozycja_gracz}")
 skarb_x = randrange(0,10)
 skarb_y = randrange(0,10)
 pozycja_skarb = [skarb_x, skarb_y]
-print(f"Pozycja skarbu: {pozycja_skarb}")
+#print(f"Pozycja skarbu: {pozycja_skarb}")
 
 dystans_gs = abs(gracz_x - skarb_x) + abs(gracz_y - skarb_y)
-print(dystans_gs)
+
 
 counter = 0                     #licznik ruchu
 nowa_pozycja = pozycja_gracz    #pozycja po ruchu
@@ -66,7 +66,8 @@ while  0 <= nowa_pozycja[0] < 10 and 0 <= nowa_pozycja[1] < 10:
         else:
             print("Nie wprowadziłeś kierunku! Podaj go jeszcze raz: ", ruch)
     else:
-        print(f"Koniec gry. Wykonałeś {counter} ruchów by dotrzeć do skarbu!")
+        print(f"Koniec gry. Wykonałeś {counter} ruchów by dotrzeć do skarbu! Minimalna ilość ruchów by do niego \n"
+              f"dotrzeć to {dystans_gs}")
         break
 else:
     print("Gracz poza mapą! Koniec gry!")
