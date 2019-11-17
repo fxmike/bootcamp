@@ -1,12 +1,24 @@
+import string
 lst = []
+a = list(string.ascii_lowercase)
 
 while len(lst) < 10:
-    try:
-        q = float(input("Podaj liczby (maksymalnie 10): "))
-        lst.append(q)
-        print(f"Lista ma już {len(lst)} elementów")
-    except:
-        print("Ops! Podałeś coś innego niż cyfra")
-        # print(float(input("Podaj liczby (maksymalnie 10): ")))
+    q = input("Podaj liczby (maksymalnie 10) lub wpisz 'koniec': ")
 
-print(f"Średnia liczb z listy wynosi: {sum(lst)/len(lst)}")
+    if q.lower() == 'koniec':
+        break
+    elif q.lower() == "":
+        print("Nie podałeś żadnej liczby!")
+        continue
+    elif q.lower() in a or q.lower()[0] in a:
+        print("Podałeś literkę a nie cyferkę ;(")
+    else:
+        lst.append(float(q))
+        print(f"Lista ma już {len(lst)} elementów")
+
+
+print(f"Liczby, które podałeś: {lst}")
+result = float(sum(lst)/len(lst))
+print(f"Średnia liczb z listy wynosi: {round(result,2)}")
+
+# jeden problem - co zrobić, żeby wracało gościa jak na początku od razu napisze koniec
