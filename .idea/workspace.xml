@@ -2,17 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/ex_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/kantor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/sciagawka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorytmy - książka/bin_src.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/ex_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#17_alt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/js_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/ostc_calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/selenium_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/selenium_webscraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/test_webkit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/ex_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/ex_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/ex_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_04.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +59,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyDependenciesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/github challenge/1-10" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\collections" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp" />
     </key>
@@ -60,8 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex_03">
-    <configuration name="ex_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.js_scraping">
+    <configuration name="ex_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ex_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ex_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="javascript web scraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-webscraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ex_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-webscraping/javascript web scraping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="js_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-webscraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ex_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-webscraping/js_scraping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ostc_calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-webscraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections/ex_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-webscraping/ostc_calendar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kantor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-webscraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collections/kantor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-webscraping/selenium_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex_03" />
-        <item itemvalue="Python.kantor" />
-        <item itemvalue="Python.ex_04" />
-        <item itemvalue="Python.ex_02" />
-        <item itemvalue="Python.ex_11" />
+        <item itemvalue="Python.js_scraping" />
+        <item itemvalue="Python.selenium_demo" />
+        <item itemvalue="Python.javascript web scraping" />
+        <item itemvalue="Python.ex_06" />
+        <item itemvalue="Python.ostc_calendar" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +214,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574582684101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prce domowe">
+      <created>1575268563746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575268563746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +239,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 zjadzd kursu" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 zjadzd kursu" />
+    <MESSAGE value="prce domowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="prce domowe" />
   </component>
 </project>

@@ -4,7 +4,7 @@ def policz_znaki(napis,znacznik1="<",znacznik2=">"):
     czy_liczymy = 0
 
     for znak in napis:
-        print(znak, end=" ")
+        # print(znak, end=" ")
 
         if znak == znacznik1:
             czy_liczymy += 1
@@ -15,17 +15,17 @@ def policz_znaki(napis,znacznik1="<",znacznik2=">"):
 
         if czy_liczymy > 0:
             counter.append(znak * czy_liczymy)
-            # print(counter)
+            print(counter)
 
     for elem in counter:
         new_lst += elem
-    # print(new_lst)
+    print(new_lst)
     adj = new_lst.count(znacznik1) + new_lst.count(znacznik2)
 
     return len(new_lst) - adj
 
 
-print(policz_znaki('<<<alan>>>'))
+print(policz_znaki('<<ce>na>'))
 
 
 
