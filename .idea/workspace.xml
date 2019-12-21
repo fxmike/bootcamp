@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/ex_09 alt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/ex_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/figury.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_as_obj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/temp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/tmep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/walizka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ex_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ex_06.py" afterDir="false" />
-    </list>
+    <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +182,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574582684101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 zjadzd kursu (niedziela)">
+      <created>1574612521178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574612521178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 zjadzd kursu" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 zjadzd kursu" />
+    <MESSAGE value="2 zjadzd kursu (niedziela)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 zjadzd kursu (niedziela)" />
   </component>
 </project>
