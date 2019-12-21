@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collections/ex_09 alt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections/ex_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ex_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/figury.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_as_obj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/temp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/tmep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/walizka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/ex_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/ex_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/ex_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/ex_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/przyklad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/ex_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ex_06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/ex_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_06.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.func_as_obj">
-    <configuration name="ex_05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex_04">
+    <configuration name="ex_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ex_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/ex_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="func_as_obj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/func_as_obj.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/ex_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/temp2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/ex_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tmep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/tmep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/ex_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="walizka" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="przyklad" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/walizka.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/przyklad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.func_as_obj" />
-        <item itemvalue="Python.walizka" />
-        <item itemvalue="Python.ex_05" />
-        <item itemvalue="Python.temp2" />
-        <item itemvalue="Python.tmep" />
+        <item itemvalue="Python.ex_04" />
+        <item itemvalue="Python.ex_03" />
+        <item itemvalue="Python.ex_02" />
+        <item itemvalue="Python.ex_01" />
+        <item itemvalue="Python.przyklad" />
       </list>
     </recent_temporary>
   </component>
