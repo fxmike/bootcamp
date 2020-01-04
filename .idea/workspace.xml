@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorytmy - książka/bin_src.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/ex_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#17_alt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/#18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github challenge/1-10/#9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/js_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/ostc_calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/selenium_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/selenium_webscraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-webscraping/test_webkit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/ex_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/ex_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/ex_04.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,14 +221,7 @@
       <option name="project" value="LOCAL" />
       <updated>1575268563746</updated>
     </task>
-    <task id="LOCAL-00003" summary="prce domowe">
-      <created>1576876056229</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1576876056229</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
