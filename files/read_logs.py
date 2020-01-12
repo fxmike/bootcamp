@@ -22,5 +22,7 @@ def main():
 
         for user, time in user_total_time_count.items():
             print(f'{user} : {time / 60 :.2f} minutes')
+
+
 if __name__ == "__main__":
     main()

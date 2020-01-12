@@ -1,3 +1,2 @@
-linia 1
-linia druga
-trzecia linia pliku
+to jest testowy zapis do plikukolejny test zapisu
+dodatkowa linijka

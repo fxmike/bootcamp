@@ -2,29 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iterators/ex_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/temp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/numeruj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/przyklad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/przyklad_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/read_logs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ex_01/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ex_01/mathematica/algebra/matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ex_01/mathematica/geometry/figures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ex_01/tests/test_algebra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/ex_01/tests/test_geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_1/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_1/dzialania/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_2/pojazdy/kolowe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_2/pojazdy/szynowe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/przyklad_2/przystanki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bootcamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/emails.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/employees.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/potegi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/read_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installers/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installers/okienko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/ex_01/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdlib/okienko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdlib/weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/gra_KGHW.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/gra_KGHW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/read_logs.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/read_logs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,10 +42,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/installers" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\installers" />
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\files" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\modules\ex_01" />
@@ -75,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.okienko">
+    <configuration name="employees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kurs\workspace\projects\bootcamp\modules\przyklad_1\a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/employees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add_matrices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="okienko" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/ex_01/mathematica/algebra/matrices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stdlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/ex_01/mathematica/algebra/matrices/add_matrices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stdlib/okienko.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_emails" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/ex_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/ex_01/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/read_emails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/przyklad_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/przyklad_2/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sub_matrices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/ex_01/mathematica/algebra/matrices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stdlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/ex_01/mathematica/algebra/matrices/sub_matrices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stdlib/weather.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.sub_matrices" />
-        <item itemvalue="Python.add_matrices" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.a" />
+        <item itemvalue="Python.okienko" />
+        <item itemvalue="Python.weather" />
+        <item itemvalue="Python.employees" />
+        <item itemvalue="Python.read_emails" />
+        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575268563746</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#1">
+      <created>1578758652522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578758652522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
