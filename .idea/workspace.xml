@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ae3ebe-41e0-480f-93c5-efb3b5019003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stdlib/args_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stdlib/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mysite/examples/templates/examples/dog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mysite/examples/templates/examples/dogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mysite/examples/templates/examples/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/mysite/examples/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/myspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/matches.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/requests.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/science/bmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/science/manipulate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/science/tiger.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/myspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/myspider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +37,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/installers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/science" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kurs\workspace\projects\bootcamp\installers" />
-      <recent name="C:\Users\kurs\workspace\projects\bootcamp\files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\data" />
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\science" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\files" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\modules\ex_01" />
       <recent name="C:\Users\kurs\workspace\projects\bootcamp\modules\przyklad_1" />
-      <recent name="C:\Users\kurs\workspace\projects\bootcamp\modules\dzialania" />
-      <recent name="$PROJECT_DIR$/github challenge/1-10" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\science" />
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\installers" />
+      <recent name="C:\Users\kurs\workspace\projects\bootcamp\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.homework">
+  <component name="RunManager" selected="Python.manipulate">
     <configuration name="employees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +110,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="manipulate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/science" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/science/manipulate.py" />
+      <option name="PARAMETERS" value="tiger.bmp tiger2.bmp" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="okienko" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,27 +144,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stdlib/okienko.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="read_emails" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/read_emails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,13 +173,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.employees" />
+      <item itemvalue="Python.homework" />
+      <item itemvalue="Python.manipulate" />
+      <item itemvalue="Python.okienko" />
+      <item itemvalue="Python.weather" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.manipulate" />
         <item itemvalue="Python.homework" />
         <item itemvalue="Python.okienko" />
         <item itemvalue="Python.weather" />
         <item itemvalue="Python.employees" />
-        <item itemvalue="Python.read_emails" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578844804696</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="#1">
+      <created>1579968266432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579968266432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
